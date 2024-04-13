@@ -16,4 +16,4 @@ The voice assistant supports communication in both English and Hindi. Users can 
 ## Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yashwaldia/AlzCare
+   git clone https://github.com/ishant2612/AlzCare-Hackx.git
